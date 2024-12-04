@@ -13,7 +13,7 @@
     This lab will guide you through the process of managing services
     using the Services app.
 
-## Instructions:  {#instructions .list-paragraph}
+## Instructions:
 
 1.  Open the Start menu and search for \"Services\"
 
