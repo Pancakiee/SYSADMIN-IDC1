@@ -22,17 +22,17 @@
 
 3.  Right-click on a service and select \"Start\", \"Stop\", or
     \"Restart\". Fill out the table below
-
- ![image](https://github.com/user-attachments/assets/c8b78bed-fed5-41aa-b0d9-0bc411eb5a32)
-![image](https://github.com/user-attachments/assets/f06965ba-2922-46a0-84d9-619bb9dc689e)
+> ![image](https://github.com/user-attachments/assets/c8b78bed-fed5-41aa-b0d9-0bc411eb5a32)
+> ![image](https://github.com/user-attachments/assets/f06965ba-2922-46a0-84d9-619bb9dc689e)
 
 
 4.  Select five network services, right-click to view its properties.
     Modify the startup setting to Manual.
 
 > **SS**:
-![image](https://github.com/user-attachments/assets/10b3cd7b-b317-4d9a-9caf-f69e44825dc7)
-![image](https://github.com/user-attachments/assets/caa2ebe8-521c-4c12-ae35-35d457fcb43f)
+> 
+> ![image](https://github.com/user-attachments/assets/10b3cd7b-b317-4d9a-9caf-f69e44825dc7)
+> ![image](https://github.com/user-attachments/assets/caa2ebe8-521c-4c12-ae35-35d457fcb43f)
 
 5.  Explore the \"General\", \"Recovery\", and \"Log On\" tabs to
     understand additional service settings.
@@ -40,7 +40,7 @@
 6.  Create a batch file that will be added as a new service later on.
     Refer to the batch file code below.
     
-![image](https://github.com/user-attachments/assets/1628214b-4316-4fab-a5ef-aa4c7f59936e)
+> ![image](https://github.com/user-attachments/assets/1628214b-4316-4fab-a5ef-aa4c7f59936e)
 
 7.  Save the batch file in Z:\\lastname_timer.bat
 
