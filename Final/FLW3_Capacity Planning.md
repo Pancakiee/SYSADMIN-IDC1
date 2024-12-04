@@ -1,21 +1,5 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| 9cd268d27e3f47da9dc851aec016c912 |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+==================================+========================+==========+
-| NAME:                            | DATE PERFORMED: **26   | /50      |
-|                                  | NOV 2024**             |          |
-| **BUSONGAN, DEMIRAYE-ANNE**      |                        |          |
-|                                  |                        |          |
-| **OLIVAS, CARMIE SOPHIA N.**     |                        |          |
-+----------------------------------+------------------------+----------+
-| Section: **IDC1**                | DATE SUBMITTED: **26   |          |
-|                                  | NOV 2024**             |          |
-+----------------------------------+------------------------+----------+
+![image](https://github.com/user-attachments/assets/e60fc3f9-a97b-443c-b46a-13aea187feb9)
+
 
 # SYSADM1 -- CAPACITY MANAGEMENT & PLANNING
 
