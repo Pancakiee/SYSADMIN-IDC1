@@ -5,7 +5,7 @@
 | --- | --- | --- |
 | **First Grading** |
 | Quizzes |
-| FG_Quiz 1 |  |  |
+| FG_Quiz 1 | 08/20 |  |
 | FG_Quiz 2 | 9/10 |  |
 | FG_Quiz 3 |  |  |
 | FG Other Activities |  |  |
@@ -40,8 +40,10 @@
 > ## Screenshots of Activities
 | Name of Activity | SS | Image No. |
 | --- | --- | --- |
-| FGE_Quiz 1 |  |  |
-| FGE_Quiz 2 |  |  |
+| FGE_Quiz 1 | ![image](https://github.com/user-attachments/assets/af956f7c-a479-4ba1-ba8a-82897ce89981)
+ |  |
+| FGE_Quiz 2 | ![image](https://github.com/user-attachments/assets/27743a3c-ee41-4dc3-b997-525b60493efe)
+ |  |
 | FGE_Quiz 3 |  |  |
 | Other Activities |  |  |
 | FGE_LW1 Creating File System |  |  |
