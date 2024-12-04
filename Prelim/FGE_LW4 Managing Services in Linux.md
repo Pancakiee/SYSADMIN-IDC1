@@ -1,31 +1,16 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| 4b01ed2bd3704465bd3b9ddcaf6f1324 |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| BUSONGAN, DEMIRAYE-ANNE          | DATE PERFORMED: 11     |          |
-|                                  | SEPT 2024              |          |
-+----------------------------------+------------------------+----------+
-| IDC1                             | DATE SUBMITTED: 11     |          |
-|                                  | SEPT 2024              |          |
-+----------------------------------+------------------------+----------+
+![image](https://github.com/user-attachments/assets/76adce06-2a19-41e5-be9b-8b6a65929027)
+
 
 # SYSADM1 -- Managing Services in Linux
 
-# Requirement: 
+## Requirement: 
 
 -   A virtual machine running Linux
 
-![](vertopal_4b01ed2bd3704465bd3b9ddcaf6f1324/media/image2.png){width="6.538194444444445in"
-height="2.9270833333333335in"}![](vertopal_4b01ed2bd3704465bd3b9ddcaf6f1324/media/image3.png){width="4.135416666666667in"
-height="1.8020833333333333in"}\
+![image](https://github.com/user-attachments/assets/35a17ba2-977d-41a9-8040-357a77a9b6a6)
+
 NOTE TO DEMI (VERSION 22):\
-![](vertopal_4b01ed2bd3704465bd3b9ddcaf6f1324/media/image4.png){width="4.624048556430446in"
-height="4.548449256342957in"}
+![image](https://github.com/user-attachments/assets/a3326b33-4480-4e70-9cd2-58f8380de17a)
 
 Complete this lab as follows:
 
@@ -35,23 +20,13 @@ Complete this lab as follows:
 List down active and inactive services in the table below. Provide five
 (5) services for each column.
 
-  -----------------------------------------------------------------------
-  **Active**                             **Inactive**
-  -------------------------------------- --------------------------------
-  (+) acpid                              (-) alsa-utils
+ ![image](https://github.com/user-attachments/assets/563709e3-f6d1-4f9c-bfc9-0e95d80f137d)
 
-  (+) cups                               (-) bluetooth
 
-  (+) cups-browsed                       (-) speech-dispatcher
+![image](https://github.com/user-attachments/assets/11a98fb3-d9d7-4b22-998d-bc75fe96833b)
+![image](https://github.com/user-attachments/assets/734472b2-f342-45ad-85ff-512cc1f90f71)
 
-  (+) dbus                               (-) keyboard-setup.sh
 
-  (+) openvpn                            (-) hwclock.sh
-  -----------------------------------------------------------------------
-
-![](vertopal_4b01ed2bd3704465bd3b9ddcaf6f1324/media/image5.png){width="4.89727580927384in"
-height="2.846218285214348in"}![](vertopal_4b01ed2bd3704465bd3b9ddcaf6f1324/media/image6.png){width="4.895329177602799in"
-height="3.2737128171478567in"}\
 Note: service --status-all\|grep '\[-\\\]', service --status-all\|grep
 '\[-\\\]'
 
@@ -60,11 +35,11 @@ Note: service --status-all\|grep '\[-\\\]', service --status-all\|grep
 Ex. sudo systemctl start httpd (Version 2024)
 
 -   Sudo modprobe Bluetooth\
-    ![](vertopal_4b01ed2bd3704465bd3b9ddcaf6f1324/media/image7.png){width="5.025758967629046in"
-    height="2.646234689413823in"}
+    ![image](https://github.com/user-attachments/assets/137abe55-cf36-4415-82f9-c4bc40f48f5f)
 
-![](vertopal_4b01ed2bd3704465bd3b9ddcaf6f1324/media/image8.png){width="4.359946412948381in"
-height="1.1875in"}
+
+![image](https://github.com/user-attachments/assets/f77a8aa0-4e66-4c00-9682-32cba795d984)
+
 
 1.  Check the status of the Bluetooth service. What is its status?
 
@@ -72,8 +47,9 @@ height="1.1875in"}
     inactive or dead
 
 SS:
-![](vertopal_4b01ed2bd3704465bd3b9ddcaf6f1324/media/image9.png){width="6.084302274715661in"
-height="1.4123950131233596in"}
+
+![image](https://github.com/user-attachments/assets/d2e4b24b-edb7-456c-bc44-849cbedcb5d5)
+
 
 1.  Check the status of the cups services. Since when was it running?
 
@@ -81,8 +57,8 @@ height="1.4123950131233596in"}
     2024-09-11 at exactly 8:25 CST, 41mins prior.
 
 SS:
-![](vertopal_4b01ed2bd3704465bd3b9ddcaf6f1324/media/image10.png){width="7.027083333333334in"
-height="3.2729166666666667in"}
+![image](https://github.com/user-attachments/assets/5530609a-ec86-4e6a-8592-2780d4ffcb6c)
+
 
 1.  Stop cups services. **(SS in NUMBER 6)**
 
