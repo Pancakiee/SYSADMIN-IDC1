@@ -1,8 +1,6 @@
 +----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| 9b53540cb6f8451ab0c379ffa5f4d4f4 |                        |          |
-| /media/image2.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
+![image](https://github.com/user-attachments/assets/c779a277-e4d6-4488-9544-a1462f76539b)
+                       |          |
 |                                  |                        |          |
 | SCHOOL OF INFORMATION TECHNOLOGY |                        |          |
 +==================================+========================+==========+
