@@ -3,12 +3,9 @@
 
 # SYSADM1 -- CAPACITY MANAGEMENT & PLANNING
 
-## Part 1. A Simulated Dataset for Capacity Planning Exercise {#part-1.-a-simulated-dataset-for-capacity-planning-exercise .list-paragraph}
+## Part 1. A Simulated Dataset for Capacity Planning Exercise
 
-![](vertopal_9cd268d27e3f47da9dc851aec016c912/media/image2.png){width="4.416666666666667in"
-height="2.3055555555555554in"}**Scenario:** A mid-sized e-commerce
-website is expecting a significant surge in traffic due to an upcoming
-holiday sale.
+
 
 ### **[Projected Traffic Increase]{.underline}**
 
@@ -26,7 +23,7 @@ holiday sale.
 
 -   Network Bandwidth per Server: **1Gbps**
 
-### **[Additional Considerations]{.underline}**
+### **[Additional Considerations]**
 
 -   New Product Launch: **A highly anticipated product will be released
     during the sale.**
@@ -57,89 +54,16 @@ holiday sale.
 
 3.  Discuss the pros and cons of each proposed solution by filling out
     the table below.
+| Proposed Solution      | Pros                                    | Cons                                      | Estimated Cost (USD)*  | Complexity          | Potential Impact on System Performance**                |
+|------------------------|-----------------------------------------|-------------------------------------------|-------------------------|---------------------|----------------------------------------------------------|
+| Add More Servers       | Increases capacity. Scalable.          | High cost. May not address bandwidth.     | ₱280,000–₱840,000      | Medium: Setup time. | Handles traffic spikes but may face future limitations. |
+| Enable Auto-Scaling*   | Adjusts to demand. Cost-efficient.      | Setup/testing required. Cloud dependency. | ₱56,000–₱168,000/month | High: Cloud setup. | Handles spikes efficiently with minimal downtime.        |
+| Optimize Current Servers | Cost-effective. Uses existing resources. | Limited capacity. May not handle 5x traffic. | ₱28,000–₱56,000        | Low: Simple tasks.  | Minor improvements through tweaking/upgrades.           |
+| Implement CDN          | Offloads traffic. Reduces latency.     | CDN costs. Requires integration.          | ₱28,000–₱280,000/month | Medium: Config required. | Improves speed and reduces server load.               |
+| Introduce WAF          | Protects against threats. Enhances security. | No performance improvement. Needs updates. | ₱56,000–₱168,000/month | Medium: Rule setup. | Protects system, ensures legitimate traffic flow.        |
 
-+---------+---------+----------+------------+------------+------------+
-| **P     | *       | **CONS** | *          | **CO       | *          |
-| ROPOSED | *PROS** |          | *ESTIMATED | MPLEXITY** | *POTENTIAL |
-| SOL     |         |          | COST       |            | IMPACT ON  |
-| UTION** |         |          | (USD)**    |            | SYSTEM     |
-|         |         |          |            |            | PER        |
-|         |         |          |            |            | FORMANCE** |
-+=========+=========+==========+============+============+============+
-| **Add   | In      | High     | ₱280,000   | Medium:    | S          |
-| More    | creases | upfront  | --₱840,000 | Requires   | ignificant |
-| Se      | c       | cost.    | per server | pr         | i          |
-| rvers** | apacity |          |            | ocurement, | mprovement |
-|         | for     | Setup    |            | ins        | in         |
-|         | t       | and      |            | tallation, | handling   |
-|         | raffic. | de       |            | and        | traffic    |
-|         |         | ployment |            | con        | spikes but |
-|         | S       | may take |            | figuration | may not    |
-|         | calable | time.    |            | of         | address    |
-|         | for     |          |            | additional | bandwidth  |
-|         | future  |          |            | servers.   | l          |
-|         | growth. |          |            |            | imitations |
-|         |         |          |            |            | ef         |
-|         |         |          |            |            | fectively. |
-+---------+---------+----------+------------+------------+------------+
-| *       | F       | Requires | ₱56        | High:      | D          |
-| *Enable | lexible | initial  | ,000--₱168 | Involves   | ynamically |
-| Auto-   | and     | setup    | ,000/month | c          | adapts to  |
-| Scaling | c       | and      | (us        | onfiguring | traffic    |
-| in      | ost-eff | testing. | age-based) | au         | needs,     |
-| Cloud** | icient. |          |            | to-scaling | ensuring   |
-|         |         | De       |            | rules,     | minimal    |
-|         | Quickly | pendency |            | monitoring | downtime,  |
-|         | adjusts | on cloud |            | tools, and | and        |
-|         | to      | p        |            | ensuring   | handles    |
-|         | demand. | rovider. |            | cloud      | unexpected |
-|         |         |          |            | platform   | spikes     |
-|         |         |          |            | comp       | ef         |
-|         |         |          |            | atibility. | ficiently. |
-+---------+---------+----------+------------+------------+------------+
-| **O     | Cost-ef | Limited  | ₱28,00     | Low:       | Minor      |
-| ptimize | fective | imp      | 0--₱56,000 | Simple     | im         |
-| Current | so      | rovement | (software  | tasks like | provements |
-| Se      | lution. | c        | updates    | tweaking   | through    |
-| rvers** |         | apacity. | /upgrades) | server     | load       |
-|         | Uses    |          |            | settings,  | balancing, |
-|         | e       | Might    |            | installing | cache      |
-|         | xisting | not      |            | updates,   | opt        |
-|         | res     | fully    |            | or adding  | imization, |
-|         | ources. | handle   |            | small      | and        |
-|         |         | 5x       |            | hardware   | upgrading  |
-|         |         | traffic. |            | upgrades.  | specific   |
-|         |         |          |            |            | hardware   |
-|         |         |          |            |            | c          |
-|         |         |          |            |            | omponents. |
-+---------+---------+----------+------------+------------+------------+
-| **Im    | O       | Costs    | ₱28        | Medium:    | Improves   |
-| plement | ffloads | for CDN  | ,000--₱280 | Requires   | website    |
-| a CDN   | traffic | s        | ,000/month | i          | speed and  |
-| (       | from    | ervices. |            | ntegrating | reduces    |
-| Content | origin  |          |            | the CDN    | load on    |
-| D       | s       | Requires |            | with the   | servers by |
-| elivery | ervers. | int      |            | website    | caching    |
-| Net     |         | egration |            | and        | content    |
-| work)** | Reduces | and      |            | c          | closer to  |
-|         | l       | config   |            | onfiguring | users.     |
-|         | atency. | uration. |            | caching    |            |
-|         |         |          |            | rules.     |            |
-+---------+---------+----------+------------+------------+------------+
-| **In    | P       | Does not | ₱56        | Medium:    | Protects   |
-| troduce | rotects | address  | ,000--₱168 | Involves   | system     |
-| WAF     | against | per      | ,000/month | setting up | integrity, |
-| (Web    | DDoS    | formance |            | the WAF,   | ensuring   |
-| Appl    | and     | issues.  |            | defining   | legitimate |
-| ication | other   |          |            | security   | traffic    |
-| Fire    | t       | Requires |            | rules, and | flows      |
-| wall)** | hreats. | mo       |            | ongoing    | smoothly   |
-|         |         | nitoring |            | ma         | while      |
-|         | E       | and      |            | intenance. | blocking   |
-|         | nhances | updates. |            |            | malicious  |
-|         | se      |          |            |            | request    |
-|         | curity. |          |            |            |            |
-+---------+---------+----------+------------+------------+------------+
+* Costs are estimates and may vary.
+** Assumes successful implementation.
 
 **Grading Rubric:**
 
