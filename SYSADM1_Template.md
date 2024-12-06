@@ -4,33 +4,21 @@
 | Name of Activity | Date | Image No. |
 | --- | --- | --- |
 | **First Grading** |
-| Quizzes |
-| FG_Quiz 1 | 08/20 |  |
-| FG_Quiz 2 | 9/10 |  |
-| FG_Quiz 3 |  |  |
-| FG Other Activities |  |  |
+| Laboratory Activities |  |  |
 | FGE_LW1 Creating File System | 08/28 |  |
 | FGE_LW3 Managing Services in Windows | 08/28 |  |
 | FGE_LW4 Managing Services in Linux | 9/11 |  |
 | First Grading Exam Lecture| 09/17 |  |
 | First Grading Exam Laboratory| 09/18 |  |
 | **Midterm** |
-| Quizzes |
-| M_Quiz 1 |  |  |
-| M_Quiz 2 |  |  |
-| M_Quiz 3 |  |  |
-| Other Activities |  |  |
+| Laboratory Activities |  |  |
 | M_LW1 Print Services | 09/25 |  |
 | M_LW2 Web Server | 10/16 |  |
 | M_R1 Web Server Monitoring | 10/16 |  |
 | Midterm Exam Lecture | 10/29 |  |
 | Midterm Exam Laboratory |  |  |
 | **Final Grading** |
-| Quizzes |
-| F_Quiz1 Recovery | 11/20 |  |
-| F_Quiz 2 |  |  |
-| F_Quiz 3 |  |  |
-| Other Activities |  |  |
+| Laboratory Activities |  |  |
 | F_LW1 Kerberos Research | 11/06 |  |
 | F_LW1 Kerberos Laboratory | 11/13 |  |
 | F_LW2 Git | 11/20 |  |
@@ -40,34 +28,18 @@
 > ## Screenshots of Activities
 | Name of Activity | SS | Image No. |
 | --- | --- | --- |
-| FGE_Quiz 1 | ![image](https://github.com/user-attachments/assets/af956f7c-a479-4ba1-ba8a-82897ce89981)
- |  |
-| FGE_Quiz 2 | ![image](https://github.com/user-attachments/assets/27743a3c-ee41-4dc3-b997-525b60493efe)
- |  |
-| FGE_Quiz 3 |  |  |
-| Other Activities |  |  |
+| Laboratory Activities |  |  |
 | FGE_LW1 Creating File System |  |  |
 | FGE_LW3 Managing Services in Windows |  |  |
 | FGE_LW4 Managing Services in Linux |  |  |
-| First Grading Exam Lecture|  |  |
-| First Grading Exam Laboratory|  |  |
-| M_Quiz 1 |  |  |
-| M_Quiz 2 |  |  |
-| M_Quiz 3 |  |  |
 | M_LW1 Print Services |  |  |
 | M_LW2 Web Server |  |  |
 | M_R1 Web Server Monitoring |  |  |
-| Midterm Exam Lecture |  |  |
-| Midterm Exam Laboratory |  |  |
-| F_Quiz1 Recovery |  |  |
-| F_Quiz 2 |  |  |
-| F_Quiz 3 |  |  |
-| Other Activities |  |  |
+| Laboratory Activities |  |  |
 | F_LW1 Kerberos Research |  |  |
 | F_LW1 Kerberos Laboratory |  |  |
 | F_LW2 Git |  |  |
 | Network Design |  |  |
-| Final Exam |  |  |
 
 > ## **Course Reflection**
 
