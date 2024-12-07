@@ -29,7 +29,7 @@
 | Name of Activity | SS | Image No. |
 | --- | --- | --- |
 | Laboratory Activities |  |  |
-| FGE_LW1 Creating File System |  |  |
+| FGE_LW1 Creating File System |  | [View FGE_Creating File Systems](Prelims/FGE_Creating File Systems.md)  |
 | FGE_LW3 Managing Services in Windows |  |  |
 | FGE_LW4 Managing Services in Linux |  |  |
 | M_LW1 Print Services |  |  |
