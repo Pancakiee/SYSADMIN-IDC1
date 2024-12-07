@@ -8,22 +8,16 @@
 | FGE_LW1 Creating File System | 08/28 |  |
 | FGE_LW3 Managing Services in Windows | 08/28 |  |
 | FGE_LW4 Managing Services in Linux | 9/11 |  |
-| First Grading Exam Lecture| 09/17 |  |
-| First Grading Exam Laboratory| 09/18 |  |
 | **Midterm** |
 | Laboratory Activities |  |  |
 | M_LW1 Print Services | 09/25 |  |
 | M_LW2 Web Server | 10/16 |  |
-| M_R1 Web Server Monitoring | 10/16 |  |
-| Midterm Exam Lecture | 10/29 |  |
-| Midterm Exam Laboratory |  |  |
 | **Final Grading** |
 | Laboratory Activities |  |  |
 | F_LW1 Kerberos Research | 11/06 |  |
 | F_LW1 Kerberos Laboratory | 11/13 |  |
 | F_LW2 Git | 11/20 |  |
-| Network Design | 12/04 |  |
-| Final Exam |  |  |
+| Network Design | 12/04 |  ||
 
 > ## Screenshots of Activities
 | Name of Activity | SS | Image No. |
