@@ -24,18 +24,18 @@
 | Name of Activity | SS | Image No. |  File Link  |
 | --- | --- | --- | --- |
 | Prelims Laboratory Activities |  |  |  |
-| FGE_LW1 Creating File System | ![image](https://github.com/user-attachments/assets/d05607bf-1665-44ca-aaa6-6195772a3154)|  | [View FGE_LW1](Prelim/FGE_LW1%20Creating%20File%20Systems.md) |
-| FGE_LW3 Managing Services in Windows | ![image](https://github.com/user-attachments/assets/a151d34e-e2e4-4742-bd5b-d25446916124)|  | [View FGE_LW3](Prelim/FGE_LW3%20Managing%20Services%20in%20Windows.md)  |
-| FGE_LW4 Managing Services in Linux   | ![image](https://github.com/user-attachments/assets/991335f2-d074-4d95-a4f7-561672e8b2bd) |  | [View FGE_LW4](Prelim/FGE_LW4%20Managing%20Services%20in%20Linux.md)  |
+| FGE_LW1 Creating File System | ![FGE_LW1](res/FGE_LW1.png)|  | [View FGE_LW1](Prelim/FGE_LW1%20Creating%20File%20Systems.md) |
+| FGE_LW3 Managing Services in Windows | ![FGE_LW3](res/FGE_LW4.png)|  | [View FGE_LW3](Prelim/FGE_LW3%20Managing%20Services%20in%20Windows.md)  |
+| FGE_LW4 Managing Services in Linux   | ![FGE_LW4](res/FGE_LW4.png) |  | [View FGE_LW4](Prelim/FGE_LW4%20Managing%20Services%20in%20Linux.md)  |
 | Midterms Laboratory Activities |  |  |  |
-| M_LW1 Print Services         |  |  | [View M_LW1](Midterm/M_LW1%20Print%20Services.md) |
-| M_LW2 Web Server             |  |  | [View M_LW2](Midterm/M_LW2%20Web%20Server.md) |
-| MID_SLA |  |  | [View MID_SLA](Midterm/MID_SLA.md) |
+| M_LW1 Print Services         | ![M_LW1](res/M_LW1.png) |  | [View M_LW1](Midterm/M_LW1%20Print%20Services.md) |
+| M_LW2 Web Server             | ![M_LW2](res/M_LW2.png) |  | [View M_LW2](Midterm/M_LW2%20Web%20Server.md) |
+| MID_SLA | ![MID_SLA](res/MID_SLA.png) |  | [View MID_SLA](Midterm/MID_SLA.md) |
 | Final Laboratory Activities |  |  |  |
-| F_LW1 Kerberos Research |  |  | [View FLW1 Research](Midterm/FLW1_Kerberos-Research.md) |
-| F_LW1 Kerberos Laboratory |  |  | [View FLW1 Laboratory](Midterm/FLW1_Kerberos(1)_UBUNTU.md) |
-| F_LW2 Git |  |  | [View FLW2](Midterm/FLW2%20Git.md) |
-| FLW3 Capacity Planning |  |  | [View FLW3](Midterm/FLW3_Capacity%20Planning.md) |
+| F_LW1 Kerberos Research | ![FLW1_Kerberos-Research](res/FLW1_Kerberos-Research.png) |  | [View FLW1 Research](Midterm/FLW1_Kerberos-Research.md) |
+| F_LW1 Kerberos Laboratory | ![FLW1_Kerberos(1)_UBUNTU](res/FLW1_FLW1_Kerberos(1)_UBUNTU.png) |  | [View FLW1 Laboratory](Midterm/FLW1_Kerberos(1)_UBUNTU.md) |
+| FLW2 Git | ![FLLW2](res/FLW2.png) |  | [View FLW2 Git](Midterm/FLW2 Git.md) |
+| FLW3 Capacity Planning | ![FLW3](res/FLW3.jpg) |  | [View FLW3](Midterm/FLW3_Capacity%20Planning.md) |
 
 > ## **Course Reflection**
 
