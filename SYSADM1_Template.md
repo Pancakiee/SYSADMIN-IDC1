@@ -5,35 +5,37 @@
 | --- | --- | --- |
 | **First Grading** |
 | Laboratory Activities |  |  |
-| FGE_LW1 Creating File System | 08/28 |  |
-| FGE_LW3 Managing Services in Windows | 08/28 |  |
-| FGE_LW4 Managing Services in Linux | 9/11 |  |
+| FGE_LW1 Creating File System | 28 AUG |  |
+| FGE_LW3 Managing Services in Windows | 28 AUG |  |
+| FGE_LW4 Managing Services in Linux | 11 SEPT |  |
 | **Midterm** |
 | Laboratory Activities |  |  |
-| M_LW1 Print Services | 09/25 |  |
-| M_LW2 Web Server | 10/16 |  |
+| M_LW1 Print Services | 25 SEPT |  |
+| M_LW2 Web Server | 24 OCTO |  |
+| MID_SLA | 24 OCTO |  |
 | **Final Grading** |
 | Laboratory Activities |  |  |
-| F_LW1 Kerberos Research | 11/06 |  |
-| F_LW1 Kerberos Laboratory | 11/13 |  |
-| F_LW2 Git | 11/20 |  |
-| Network Design | 12/04 |  ||
+| F_LW1 Kerberos Research | 06 NOV |  |
+| F_LW1 Kerberos Laboratory | 13 NOV |  |
+| F_LW2 Git | 20 NOV |  |
+| Network Design | 04 DEC |  ||
 
 > ## Screenshots of Activities
-| Name of Activity | SS | Image No. |
-| --- | --- | --- |
-| Laboratory Activities |  |  |
-| FGE_LW1 Creating File System |  | [View FGE_LW1 Creating File Systems](Prelim/FGE_LW1%20Creating%20File%20Systems.md) |
-| FGE_LW3 Managing Services in Windows |  | [View FGE_LW3 Managing Services in Windows](Prelim/FGE_LW3%20Managing%20Services%20in%20Windows.md)  |
-| FGE_LW4 Managing Services in Linux   |  | [View FGE_LW4 Managing Service in Linux](Prelim/FGE_LW4%20Managing%20Services%20in%20Linux.md)  |  |
-| M_LW1 Print Services         |  | [View M_LW1 Print Services](Midterm/M_LW1%20Print%20Services.md) |
-| M_LW2 Web Server             |  | [View M_LW2 Web Server](Midterm/M_LW2%20Web%20Server.md) |
-| M_R1 Web Server Monitoring |  |  |
-| Laboratory Activities |  |  |
-| F_LW1 Kerberos Research |  |  |
-| F_LW1 Kerberos Laboratory |  |  |
-| F_LW2 Git |  |  |
-| Network Design |  |  |
+| Name of Activity | SS | Image No. |  File Link  |
+| --- | --- | --- | --- |
+| Prelims Laboratory Activities |  |  |  |
+| FGE_LW1 Creating File System |  |  | [View FGE_LW1 Creating File Systems](Prelim/FGE_LW1%20Creating%20File%20Systems.md) |
+| FGE_LW3 Managing Services in Windows |  |  | [View FGE_LW3 Managing Services in Windows](Prelim/FGE_LW3%20Managing%20Services%20in%20Windows.md)  |
+| FGE_LW4 Managing Services in Linux   |  |  | [View FGE_LW4 Managing Service in Linux](Prelim/FGE_LW4%20Managing%20Services%20in%20Linux.md)  |  |
+| Midterms Laboratory Activities |  |  |  |
+| M_LW1 Print Services         |  |  | [View M_LW1 Print Services](Midterm/M_LW1%20Print%20Services.md) |
+| M_LW2 Web Server             |  |  | [View M_LW2 Web Server](Midterm/M_LW2%20Web%20Server.md) |
+| MID_SLA |  |  | [View MID_SLA](Midterm/MID_SLA.md) |
+| Final Laboratory Activities |  |  |  |
+| F_LW1 Kerberos Research |  |  | [View FLW1 Kerberos Research](Midterm/FLW1_Kerberos-Research.md) |
+| F_LW1 Kerberos Laboratory |  |  | [View FLW1 Kerberos Laboratory](Midterm/FLW1_Kerberos(1)_UBUNTU.md) |
+| F_LW2 Git |  |  | [View FLW2 Git](Midterm/FLW2%20Git.md) |
+| FLW3 Capacity Planning |  |  | [View FLW3 Capacity Planning](Midterm/FLW3_Capacity%20Planning.md) |
 
 > ## **Course Reflection**
 
