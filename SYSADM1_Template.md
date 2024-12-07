@@ -32,8 +32,8 @@
 | FGE_LW1 Creating File System |  | [View FGE_LW1 Creating File Systems](Prelim/FGE_LW1%20Creating%20File%20Systems.md) |
 | FGE_LW3 Managing Services in Windows |  | [View FGE_LW3 Managing Services in Windows](Prelim/FGE_LW3%20Managing%20Services%20in%20Windows.md)  |
 | FGE_LW4 Managing Services in Linux   |  | [View FGE_LW4 Managing Service in Linux](Prelim/FGE_LW4%20Managing%20Services%20in%20Linux.md)  |  |
-| M_LW1 Print Services |  |  |
-| M_LW2 Web Server |  |  |
+| M_LW1 Print Services         |  | [View M_LW1 Print Services](Midterm/M_LW1%20Print%20Services.md) |
+| M_LW2 Web Server             |  | [View M_LW2 Web Server](Midterm/M_LW2%20Web%20Server.md) |
 | M_R1 Web Server Monitoring |  |  |
 | Laboratory Activities |  |  |
 | F_LW1 Kerberos Research |  |  |
