@@ -24,18 +24,18 @@
 | Name of Activity | SS | Image No. |  File Link  |
 | --- | --- | --- | --- |
 | Prelims Laboratory Activities |  |  |  |
-| FGE_LW1 Creating File System |  |  | [View FGE_LW1 Creating File Systems](Prelim/FGE_LW1%20Creating%20File%20Systems.md) |
-| FGE_LW3 Managing Services in Windows |  |  | [View FGE_LW3 Managing Services in Windows](Prelim/FGE_LW3%20Managing%20Services%20in%20Windows.md)  |
-| FGE_LW4 Managing Services in Linux   |  |  | [View FGE_LW4 Managing Service in Linux](Prelim/FGE_LW4%20Managing%20Services%20in%20Linux.md)  |  |
+| FGE_LW1 Creating File System |  |  | [View FGE_LW1](Prelim/FGE_LW1%20Creating%20File%20Systems.md) |
+| FGE_LW3 Managing Services in Windows |  |  | [View FGE_LW3](Prelim/FGE_LW3%20Managing%20Services%20in%20Windows.md)  |
+| FGE_LW4 Managing Services in Linux   |  |  | [View FGE_LW4](Prelim/FGE_LW4%20Managing%20Services%20in%20Linux.md)  |  |
 | Midterms Laboratory Activities |  |  |  |
-| M_LW1 Print Services         |  |  | [View M_LW1 Print Services](Midterm/M_LW1%20Print%20Services.md) |
-| M_LW2 Web Server             |  |  | [View M_LW2 Web Server](Midterm/M_LW2%20Web%20Server.md) |
+| M_LW1 Print Services         |  |  | [View M_LW1](Midterm/M_LW1%20Print%20Services.md) |
+| M_LW2 Web Server             |  |  | [View M_LW2](Midterm/M_LW2%20Web%20Server.md) |
 | MID_SLA |  |  | [View MID_SLA](Midterm/MID_SLA.md) |
 | Final Laboratory Activities |  |  |  |
-| F_LW1 Kerberos Research |  |  | [View FLW1 Kerberos Research](Midterm/FLW1_Kerberos-Research.md) |
-| F_LW1 Kerberos Laboratory |  |  | [View FLW1 Kerberos Laboratory](Midterm/FLW1_Kerberos(1)_UBUNTU.md) |
-| F_LW2 Git |  |  | [View FLW2 Git](Midterm/FLW2%20Git.md) |
-| FLW3 Capacity Planning |  |  | [View FLW3 Capacity Planning](Midterm/FLW3_Capacity%20Planning.md) |
+| F_LW1 Kerberos Research |  |  | [View FLW1 Research](Midterm/FLW1_Kerberos-Research.md) |
+| F_LW1 Kerberos Laboratory |  |  | [View FLW1 Laboratory](Midterm/FLW1_Kerberos(1)_UBUNTU.md) |
+| F_LW2 Git |  |  | [View FLW2](Midterm/FLW2%20Git.md) |
+| FLW3 Capacity Planning |  |  | [View FLW3](Midterm/FLW3_Capacity%20Planning.md) |
 
 > ## **Course Reflection**
 
